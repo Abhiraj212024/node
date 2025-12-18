@@ -1,0 +1,16 @@
+20251024	00:08:13	83519bb7-f496-4bae-b1b9-bf850ad1e9ee	/new-page.html	GET
+20251024	00:08:13	9a215208-0f5c-4ee4-93e2-1fc65b7c5e9c	/css/style.css	GET
+20251024	00:08:13	341b3615-9bec-4e0b-ba04-a87b39212536	/img/image.png	GET
+20251024	00:08:13	4a249572-f605-4cc6-85a5-f4a2f263faea	/favicon.ico	GET
+20251024	00:08:29	c828544a-3733-44a6-a0b3-1ddfa18fde78	/new-page.html	GET
+20251024	00:08:39	0223fc53-865a-4084-af2d-5c6593deec09	/new-page.html	GET
+20251024	00:08:40	046ff576-d13d-4b82-94f0-228d2660eab0	/css/style.css	GET
+20251024	00:08:40	0b1b8744-ef8c-4c82-b8a5-65a8b582cbc0	/img/image.png	GET
+20251030	19:44:39	6feb3779-f4a8-4415-a9a6-b0ea88903116	/	GET
+20251030	19:44:39	e052eb09-2f34-4988-9c15-ada2e275a25b	/css/style.css	GET
+20251030	19:44:39	8188efc8-e7d9-4680-a8aa-bfcf32b976d5	/favicon.ico	GET
+20251030	19:44:42	6c28ff9e-2295-4a03-a1aa-9afbbe7f745b	/	GET
+20251030	19:44:42	be1df413-96b9-465a-8f51-c83ad81c9f1b	/css/style.css	GET
+20251103	19:58:55	f75ad251-fa40-4f66-b9c0-fffa6c9ae856	GET	undefined	/new-page
+20251103	19:58:55	1bfd64ea-d9bc-441f-9a4c-d295002aeb5b	GET	undefined	/css/style.css
+20251103	19:58:55	3e771ba8-bcf1-4ffc-a2d7-d57e153e3291	GET	undefined	/img/image.png
