@@ -8,7 +8,7 @@ if (!fs.existsSync('./new')){
 }else{
     fs.rmdir('./new', (err) => {
         if (err) throw err
-        console.log("Directory Deleted successfullt")
+        console.log("Directory Deleted successfully")
     })
 }
 
