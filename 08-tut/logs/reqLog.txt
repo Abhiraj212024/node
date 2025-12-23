@@ -1,0 +1,54 @@
+20251024	00:08:13	83519bb7-f496-4bae-b1b9-bf850ad1e9ee	/new-page.html	GET
+20251024	00:08:13	9a215208-0f5c-4ee4-93e2-1fc65b7c5e9c	/css/style.css	GET
+20251024	00:08:13	341b3615-9bec-4e0b-ba04-a87b39212536	/img/image.png	GET
+20251024	00:08:13	4a249572-f605-4cc6-85a5-f4a2f263faea	/favicon.ico	GET
+20251024	00:08:29	c828544a-3733-44a6-a0b3-1ddfa18fde78	/new-page.html	GET
+20251024	00:08:39	0223fc53-865a-4084-af2d-5c6593deec09	/new-page.html	GET
+20251024	00:08:40	046ff576-d13d-4b82-94f0-228d2660eab0	/css/style.css	GET
+20251024	00:08:40	0b1b8744-ef8c-4c82-b8a5-65a8b582cbc0	/img/image.png	GET
+20251030	19:44:39	6feb3779-f4a8-4415-a9a6-b0ea88903116	/	GET
+20251030	19:44:39	e052eb09-2f34-4988-9c15-ada2e275a25b	/css/style.css	GET
+20251030	19:44:39	8188efc8-e7d9-4680-a8aa-bfcf32b976d5	/favicon.ico	GET
+20251030	19:44:42	6c28ff9e-2295-4a03-a1aa-9afbbe7f745b	/	GET
+20251030	19:44:42	be1df413-96b9-465a-8f51-c83ad81c9f1b	/css/style.css	GET
+20251103	19:58:55	f75ad251-fa40-4f66-b9c0-fffa6c9ae856	GET	undefined	/new-page
+20251103	19:58:55	1bfd64ea-d9bc-441f-9a4c-d295002aeb5b	GET	undefined	/css/style.css
+20251103	19:58:55	3e771ba8-bcf1-4ffc-a2d7-d57e153e3291	GET	undefined	/img/image.png
+20251221	11:02:12	d0f475ca-6411-4829-9bbb-361149c718e6	GET	undefined	/
+20251221	11:02:12	7ec9ef90-de78-4c16-87d6-c1e9da09d874	GET	undefined	/css/style.css
+20251221	11:02:12	711569c5-0335-4010-b667-0bdb012c8cac	GET	undefined	/favicon.ico
+20251221	11:02:21	245828bc-52e6-487d-b1af-cba7e5013c39	GET	undefined	/css/img
+20251221	11:02:21	f20995d6-7fe8-4c22-a936-f918ae217574	GET	undefined	/css/css/style.css
+20251221	11:02:41	6357fc09-dd93-4db5-a3e2-0bbd444b716a	GET	undefined	/img/img
+20251221	11:02:41	d43a26f9-9722-4e3b-b512-1eaf5ec49ff8	GET	undefined	/img/css/style.css
+20251221	11:02:50	af14d7b7-8512-4be2-9a34-f746dc0a4e25	GET	undefined	/img/image
+20251221	11:02:50	2b65fc5a-f654-48c9-b43d-9a468f84684e	GET	undefined	/img/css/style.css
+20251221	11:02:54	578db634-067a-4f51-9b40-18719c1ff87a	GET	undefined	/img/image.png
+20251221	11:03:07	7c2cc551-4753-4372-81ad-583014595a9d	GET	undefined	/css/style.css
+20251221	11:03:39	ab4786e1-0fe4-4fe7-ad1f-8e3102b5ce0b	GET	undefined	/
+20251221	11:03:39	cadd22b8-719b-4567-990d-053c1b20c831	GET	undefined	/css/style.css
+20251221	11:03:42	95bb9ab3-6467-402b-9cc8-f7ee91baf36a	GET	undefined	/css/style.css
+20251221	11:03:42	be558ab1-9bdf-4e83-9c8e-2b8f6892fa65	GET	undefined	/.well-known/appspecific/com.chrome.devtools.json
+20251221	11:04:38	4ac7cb6b-786f-4d85-9241-5ffcbbee58ef	GET	https://www.google.com	/
+20251221	11:08:30	fe492eb0-39cd-49a0-a145-be8568ba3e6e	GET	https://www.google.com	/
+20251224	00:39:03	8e93499f-258e-4f54-bcc4-01ae94b25c88	GET	undefined	/
+20251224	00:39:03	eee55850-9cee-42da-ad0c-5607a9b95aea	GET	undefined	/css/style.css
+20251224	00:39:03	c5124db9-295c-49f9-a334-00850270fb07	GET	undefined	/favicon.ico
+20251224	00:39:25	6c0f43c3-7494-4f4a-9e97-aef54b0bb1de	GET	undefined	/subdir
+20251224	00:52:51	4fb501ea-2fd5-4ca5-8e52-1ffa8183ec97	GET	undefined	/subdir/index
+20251224	00:54:24	ceaeeeb3-778e-431d-85f3-32305995330e	GET	undefined	/subdir/index
+20251224	00:54:27	e18fe6bd-e20e-4eb0-8bce-f72b044e6069	GET	undefined	/subdir
+20251224	00:54:42	20f9e7ad-19bb-4c3e-aed3-2e1b32fdf3bf	GET	undefined	/subdir/test
+20251224	01:04:21	28eee972-8e9b-4b6b-860a-e11cc5a162ae	GET	undefined	/subdir/test
+20251224	01:04:24	2caf16c9-70dd-4cce-a753-5b23b703d039	GET	undefined	/
+20251224	01:04:24	13d49bcf-40dd-4fe9-ad59-dec174e434b8	GET	undefined	/css/style.css
+20251224	01:04:30	1728ac55-fdda-4c05-880e-edab56c7ccef	GET	undefined	/new-page.html
+20251224	01:04:30	78b991ff-cf52-45f1-a370-939c26159366	GET	undefined	/img/image.png
+20251224	01:04:30	14e64229-febb-4539-96d4-a16bbd0777e1	GET	undefined	/css/style.css
+20251224	01:17:29	e1338113-ad93-41f7-8b15-9f67e0bc6ffb	GET	undefined	/employees
+20251224	01:17:41	6897ec03-e9c0-4810-883c-7bc54871f75a	POST	undefined	/employees
+20251224	01:18:51	8024ebe4-0ff7-41e6-9afb-77ceaefddabe	POST	undefined	/employees
+20251224	01:19:43	deec6064-05bf-4d2f-9046-f8c34824df64	PUT	undefined	/employees
+20251224	01:20:10	3526f423-cca6-4340-a34d-0c82803c81cd	PUT	undefined	/employees
+20251224	01:20:50	dfaf612f-86a7-4916-bfb7-0283713aaeae	PUT	undefined	/employees/1
+20251224	01:21:00	1f96c055-62d7-43d2-abe7-94e51668b231	GET	undefined	/employees/1
