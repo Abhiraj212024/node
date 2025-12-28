@@ -7,6 +7,8 @@ const errorHandler = require('./middleware/errorHandler')
 const express = require('express')
 const app = express()
 const PORT = process.env.PORT || 3500
+const verifyJWT = require('./middleware/verifyJWT')
+const cookieParser = require('cookie-parser')
 
 
 //custom middleware for logging
@@ -24,12 +26,18 @@ app.use(express.urlencoded({extended: false}))
 //built in middleware for json
 app.use(express.json())
 
+//middleware for cookies
+app.use(cookieParser())
+
 // built in middleware for serving static files like CSS, images, etc
 app.use(express.static(path.join(__dirname, '/public')))
 
 app.use('/', require('./routes/root'))
 app.use('/register', require('./routes/api/register'))
 app.use('/auth', require('./routes/api/auth'))
+app.use('/refresh', require('./routes/api/refresh'))
+
+app.use(verifyJWT) //protect all routes after this middleware
 app.use('/employees', require('./routes/api/employees'))
 
 
