@@ -21,3 +21,5 @@
 20251228	13:46:59	b24614e7-51f1-4c29-a58c-e37b9cda93c3	ReferenceError: sendStatus is not defined
 20251228	13:48:14	7fd80688-54e2-48ed-b8e8-22d29d7538c4	ReferenceError: sendStatus is not defined
 20251228	13:55:27	2df6fa9a-6d08-4871-bf69-5c51663cfb85	ReferenceError: sendStatus is not defined
+20251228	14:46:39	8989688d-1e6c-4967-a315-3705c5f2cba3	TypeError: usersDB.map is not a function
+20251228	14:52:43	4cfea985-a3a0-475b-aa92-609c298f0934	TypeError: Cannot read properties of undefined (reading 'find')

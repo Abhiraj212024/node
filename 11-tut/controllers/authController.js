@@ -41,6 +41,7 @@ const handleLogin = async (req, res) => {
             path.join(__dirname, '..', 'models', 'users.json'),
             JSON.stringify(userDB.users)
         )
+        console.log("Refresh token saved to database")
         const cookieAge = 24*60*60*1000 //one day
         // httpOnly cookie is not available to JavaScript, more secure than storing in local storage
         res.cookie('jwt', refreshToken, { httpOnly: true, maxAge: cookieAge })
