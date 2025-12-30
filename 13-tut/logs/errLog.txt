@@ -1,0 +1,25 @@
+20251024	00:08:29	e5160c4a-b5b9-41e4-9ff1-fb4b64e7220c	TypeError: fsPromises.readFil is not a function
+20251224	01:17:41	a1629d2d-ec07-4efc-b978-5e456bdad07b	TypeError: Cannot read properties of undefined (reading 'firstname')
+20251225	15:17:28	5d2e77ba-c367-4e90-b2a6-c676695e286f	ReferenceError: response is not defined
+20251228	13:01:32	332cac2d-1fd4-4c6c-ba45-7a887a2e1661	Error: secretOrPrivateKey must have a value
+20251228	13:02:05	2809e0ec-fca4-42c9-af6a-9b093d1629bb	Error: secretOrPrivateKey must have a value
+20251228	13:02:31	df5feb7c-9b8c-43f6-a3e2-93e62a5983da	Error: secretOrPrivateKey must have a value
+20251228	13:02:36	3127a59b-58e5-449d-81bf-97b9abf45ec6	Error: secretOrPrivateKey must have a value
+20251228	13:05:48	0de787fd-bfb1-494f-8a49-a0bf1b4fffc3	Error: secretOrPrivateKey must have a value
+20251228	13:07:59	7f211e13-c81f-4214-b6a7-59b6954e084a	Error: secretOrPrivateKey must have a value
+20251228	13:12:16	4191538a-efc8-41f2-94f7-cecf9daa108f	Error: data and hash must be strings
+20251228	13:12:24	0d220b4e-e370-4b28-a91f-48283034f7fd	Error: secretOrPrivateKey must have a value
+20251228	13:12:27	3d7f270e-5d6d-4235-9018-7054dab055d0	Error: secretOrPrivateKey must have a value
+20251228	13:12:27	6d1b92d5-a849-45f8-b966-0d369ccde9ee	Error: secretOrPrivateKey must have a value
+20251228	13:12:27	66bdedb5-efc7-42ff-9ac7-dced3a40b783	Error: secretOrPrivateKey must have a value
+20251228	13:12:27	c112f43f-b5cd-4c41-8296-027a3e59e62f	Error: secretOrPrivateKey must have a value
+20251228	13:12:27	1f9c1937-9737-491e-9e67-5baeda81052c	Error: secretOrPrivateKey must have a value
+20251228	13:12:28	91207347-ede8-49db-b7f6-184549d9cea2	Error: secretOrPrivateKey must have a value
+20251228	13:13:09	d52c3ce7-efb0-4946-b3eb-7417ffb23c01	Error: secretOrPrivateKey must have a value
+20251228	13:24:05	1b53953c-3110-4bbb-959c-c212fd33e765	Error: secretOrPrivateKey must have a value
+20251228	13:25:33	d2fc2220-a27d-4a8c-8821-d69fbe7e2631	Error: secretOrPrivateKey must have a value
+20251228	13:46:59	b24614e7-51f1-4c29-a58c-e37b9cda93c3	ReferenceError: sendStatus is not defined
+20251228	13:48:14	7fd80688-54e2-48ed-b8e8-22d29d7538c4	ReferenceError: sendStatus is not defined
+20251228	13:55:27	2df6fa9a-6d08-4871-bf69-5c51663cfb85	ReferenceError: sendStatus is not defined
+20251228	14:46:39	8989688d-1e6c-4967-a315-3705c5f2cba3	TypeError: usersDB.map is not a function
+20251228	14:52:43	4cfea985-a3a0-475b-aa92-609c298f0934	TypeError: Cannot read properties of undefined (reading 'find')
